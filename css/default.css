@@ -1,5 +1,9 @@
 @charset "utf-8";
 
+  body{
+    background-image: url(../img/.png);
+  }
+
 body{
   background-color: lightcyan;
 }
